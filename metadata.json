@@ -1,0 +1,8 @@
+
+{
+  "name": "Industrial Worker Flow",
+  "description": "A comprehensive industrial worker application for managing shifts, logging tasks (Info, Warning, Crucial), and handling seamless worker handovers within departments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
